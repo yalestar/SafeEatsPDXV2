@@ -1,0 +1,42 @@
+Notes:
+=================================================================
+
+1/4/2016:  Somebody did it better: https://github.com/jameschildress/pdx-ri-map
+But it's offline apparently permanently?
+
+Redo the webapp in NodeJS using this API for Portland at least: 
+http://api.civicapps.org/#restaurant-inspections
+(cache results in local Mongo?)
+Add some websocket shit for realtime moving map?
+
+============================================
+
+4/18/2012: switched from MongoHQ to MongoLab (not enough storage on HQ free plan, although I may switch to their 5/mo. plan)			
+Use: heroku config | grep MONGOLAB_URI
+to get connection info (see: https://devcenter.heroku.com/articles/mongolab#database_connection_information)
+
+Parse these:
+	http://www.co.clackamas.or.us/foodinspection/ris.php
+	http://www3.multco.us/MCHealthInspect/ListSearch.aspx
+	http://washtech.co.washington.or.us/restaurantinspections/
+
+google maps thing should have a tabbed popup like padmapper.com
+
+docs for sparkline lib: http://omnipotent.net/jquery.sparkline/
+
+TODO: 
+search
+ordering by score, name
+link from address to map zoom
+add portland neighborhoods?
+Also maybe send out Twitter notices of new inspections?
+GeoRSS for what?
+Sparklines for inspection history?
+type-ahead for search box
+API to return results by bounding box
+
+=================================================================
+05/11/2014
+fixing to move this over to NodeJS and PostGIS
+    in Node, iterate over existing Mongo coordinates and jack them into PG
+        geolib?

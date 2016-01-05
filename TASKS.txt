@@ -1,0 +1,3 @@
+Get rolling with Hapi.js, Gulp, Bower
+
+Make basic server and index and test

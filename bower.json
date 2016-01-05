@@ -1,0 +1,22 @@
+{
+  "name": "SafeEatsPDXV2",
+  "homepage": "https://github.com/yalestar/SafeEatsPDXV2",
+  "authors": [
+    "yalestar <yalestar@gmail.com>"
+  ],
+  "description": "Reunthinking",
+  "main": "app.js",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "leaflet": "~0.7.7"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

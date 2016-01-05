@@ -1,0 +1,30 @@
+{
+  "name": "safe-eats-pdx-2",
+  "version": "1.0.0",
+  "description": "SafeEats v2 rewrite",
+  "main": "index.js",
+  "dependencies": {
+    "good": "^6.4.0",
+    "good-console": "^5.2.0",
+    "hapi": "^12.0.0"
+  },
+  "engines": {
+    "node": "5.2.0"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalestar/SafeEatsPDXV2.git"
+  },
+  "author": "yalestar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yalestar/SafeEatsPDXV2/issues"
+  },
+  "homepage": "https://github.com/yalestar/SafeEatsPDXV2#readme"
+}
