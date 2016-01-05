@@ -6,14 +6,15 @@
   "dependencies": {
     "good": "^6.4.0",
     "good-console": "^5.2.0",
-    "hapi": "^12.0.0"
+    "handlebars": "^4.0.5",
+    "hapi": "^12.0.0",
+    "vision": "^4.0.1",
+    "wreck": "^7.0.0"
   },
   "engines": {
     "node": "5.2.0"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

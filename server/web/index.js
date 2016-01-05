@@ -1,60 +1,22 @@
 'use strict';
 
-const Lab = require('lab');
-const Code = require('code');
-const Config = require('../../../config');
-const Hapi = require('hapi');
-const Vision = require('vision');
-const HomePlugin = require('../../../server/web/index');
+exports.register = function (server, options, next) {
 
+    server.route({
+        method: 'GET',
+        path: '/',
+        handler: function (request, reply) {
 
-const lab = exports.lab = Lab.script();
-let request;
-let server;
-
-
-lab.beforeEach((done) => {
-
-    const plugins = [Vision, HomePlugin];
-    server = new Hapi.Server();
-    server.connection({ port: Config.get('/port/web') });
-    server.register(plugins, (err) => {
-
-        if (err) {
-            return done(err);
+            return reply.view('index');
         }
-
-        server.views({
-            engines: { jade: require('jade') },
-            path: './server/web'
-        });
-
-        done();
-    });
-});
-
-
-lab.experiment('Home Page View', () => {
-
-    lab.beforeEach((done) => {
-
-        request = {
-            method: 'GET',
-            url: '/'
-        };
-
-        done();
     });
 
 
-    lab.test('home page renders properly', (done) => {
+    next();
+};
 
-        server.inject(request, (response) => {
 
-            Code.expect(response.result).to.match(/activate the plot device/i);
-            Code.expect(response.statusCode).to.equal(200);
-
-            done();
-        });
-    });
-});
+exports.register.attributes = {
+    name: 'web',
+    dependencies: 'visionary'
+};
