@@ -2,20 +2,13 @@
 
 const Lab = require('lab');
 const Code = require('code');
-const Composer = require('../index');
+
+var lab = exports.lab = Lab.script();
 
 
-const lab = exports.lab = Lab.script();
 
+lab.test('lab exists', (done) => {
+  Code.expect(lab).to.exist();:wq
 
-lab.experiment('App', () => {
-
-    lab.test('it composes a server', (done) => {
-
-        Composer((err, composedServer) => {
-
-            Code.expect(composedServer).to.be.an.object();
-            done(err);
-        });
-    });
+  done(err);
 });

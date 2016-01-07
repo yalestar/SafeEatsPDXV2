@@ -15,10 +15,6 @@ module.exports = [{
 //     handler: Pages.viewRecipe
 // }, {
 //     method: 'GET',
-//     path: '/login',
-//     handler: Pages.login
-// }, {
-//     method: 'GET',
 //     path: '/create',
 //     handler: Pages.createRecipe
 // }, {
