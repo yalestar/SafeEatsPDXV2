@@ -1,15 +1,98 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>FART</title>
-    <!-- <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script> -->
+<head>
+    <title>RUNDMC_NEATS</title>
+    <link rel="stylesheet" href="/bower_components/leaflet/dist/leaflet.css">
+    <script src="/bower_components/leaflet/dist/leaflet.js" charset="utf-8"></script>
+    <script src="/bower_components/jquery/dist/jquery.js"></script>
+</head>
+<body>
+<style type="text/css" scoped>
+    #map {
+        height: 180px;
+    }
+</style>
+<script>
+    jQuery(function($) {
+        var map = L.map('map').setView([45.505, -122.09], 13);
+        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+            maxZoom: 18,
+            id: 'yalestar.i3904h2l',
+            accessToken: 'pk.eyJ1IjoieWFsZXN0YXIiLCJhIjoiZDNlMjJkN2RjYTliNDM3ZjlhYzgzN2RmNThjMGMxMjYifQ.T7R0wlqz6Zd_8WksyktL6g'
+        }).addTo(map);
+    });
 
-    <!-- <script src="/bower_components/leaflet/dist/leaflet.js" charset="utf-8"></script> -->
-  </head>
-  <body>
-    <div>
-      <h1>{{message}}</h1>
+
+</script>
+<style type="text/css">
+    .ui-bar {
+        font-family: Tahoma, sans-serif;
+        font-size: smaller;
+        color: white;
+    }
+
+    .result_item {
+        font-size: 80%;
+    }
+
+    .green {
+        background-color: #68ff78;
+    }
+
+    .yellow {
+        background-color: #fffa79;
+    }
+
+    .red {
+        background-color: #ff5847;
+    }
+
+    .orange {
+        background-color: #FFA42E;
+    }
+</style>
+<div data-role="page" data-theme="b">
+    <div data-role="header">
+        <h5>SafeEatsPDX</h5>
     </div>
-  </body>
+
+    <div data-role="collapsible-set">
+
+        <div data-role="collapsible" data-collapsed="false" data-mini="true">
+            <h5>Map View</h5>
+
+            <div class="ui-grid-a">
+                <div class="ui-block-a">
+                    <a href="#" id="getLocation" data-role="button" data-inline="true" data-mini="true">Get Loc</a>
+                    <a href="#" id="find" data-role="button" data-inline="true" data-theme="b" data-mini="true">Find</a>
+                    <a href="#" id="clear" data-role="button" data-inline="true" data-theme="b"
+                       data-mini="true">Clear</a>
+
+                    <div id="map" style="height: 400px; width:500px"></div>
+                </div>
+                <div class="ui-block-b">
+                    <h2>Results</h2>
+                    <h6>Order By: <a href="#" id="orderByScore">SCORE</a> | <a href="#" id="orderByName">NAME</a></h6>
+
+                    <div id="results_block" class="result_item">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div data-role="collapsible" data-mini="true">
+            <h3>Search</h3>
+            <label for="search-basic">Search Input:</label>
+            <input type="search" name="search" id="search-basic" value="" data-mini="true"/>
+        </div>
+
+    </div>
+
+</div>
+<div id="footer" data-role="footer" class="ui-bar">
+    <a href="/about">About</a> | <a href="/contact">Contact</a> | <a href="/data">Data</a> | <a href="/api">API</a>
+</div>
+</body>
 </html>

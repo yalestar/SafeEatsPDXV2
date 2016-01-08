@@ -4,12 +4,19 @@ const Pages = require('./handlers/pages');
 // const Assets = require('./handlers/assets');
 // const Actions = require('./handlers/actions');
 
-module.exports = [{
+module.exports = [
+  {
     method: 'GET',
     path: '/',
     handler: Pages.home
-}];
- // {
+  },
+  {
+    method: 'GET',
+    path: '/api',
+    handler: Pages.api
+  }
+];
+// {
 //     method: 'GET',
 //     path: '/recipes/{id}',
 //     handler: Pages.viewRecipe

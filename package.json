@@ -4,8 +4,7 @@
   "description": "SafeEats v2 rewrite",
   "main": "server.js",
   "dependencies": {
-    "good": "^6.4.0",
-    "good-console": "^5.2.0",
+    "gulp-exec": "^2.1.2",
     "handlebars": "^4.0.5",
     "hapi": "^12.0.0",
     "vision": "^4.0.1",
