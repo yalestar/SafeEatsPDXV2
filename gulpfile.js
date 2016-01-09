@@ -4,6 +4,7 @@ var uglify = require('gulp-uglify');
 var jshint = require('gulp-jshint');
 var browserSync = require('browser-sync');
 var  exec = require('child_process').exec;
+var babel = require('gulp-babel');
 
 gulp.task('styles', function() {
   return gulp.src('app/styles/*.css')
@@ -51,11 +52,10 @@ gulp.task('serve', ['styles'], function(cb) {
 });
 
 gulp.task('scripts', function() {
-  return gulp.src('public/js/*.js')
-    .pipe(jshint())
-    .pipe(jshint.reporter('default'))
+  return gulp.src('*.js')
+    .pipe(babel())
     .pipe(concat('all.js'))
-    .pipe(uglify())
+    // .pipe(uglify())
     .pipe(gulp.dest('dist/'));
 });
 
