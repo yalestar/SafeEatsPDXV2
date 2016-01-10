@@ -4,6 +4,8 @@ var Hapi = require('hapi');
 var Pages = require('./handlers/pages');
 // var Assets = require('./handlers/assets');
 // var Actions = require('./handlers/actions');
+
+console.log("=================================================================");
 console.log("=================================================================");
 var server = new Hapi.Server();
 server.connection({port: 9000});
@@ -21,7 +23,6 @@ server.register(require('vision'), function (err) {
       isCached: false,
       helpersPath: './views/helpers',
       partialsPath: './views/partials'
-
   });
 });
 server.route(require('./routes'));

@@ -9,6 +9,7 @@ http://api.civicapps.org/#restaurant-inspections
 (cache results in local Mongo?)
 Add some websocket shit for realtime moving map?
 Firebase or Parse maybe?
+Transform the Clackamas and Washington counties data to match the structure of the Multnomah API
 ============================================
 
 4/18/2012: switched from MongoHQ to MongoLab (not enough storage on HQ free plan, although I may switch to their 5/mo. plan)			

@@ -7,6 +7,7 @@ exports.home = function(request, reply) {
 
 exports.api = function(request, reply) {
     reply.view('api', {
+        message: ' ' + request.server.version,
         title: 'api mother fuckA'
     });
 };
