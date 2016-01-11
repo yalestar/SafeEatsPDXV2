@@ -7,11 +7,20 @@ var positionopts = {
 
 var ourPositionLat;
 var ourPositionLong;
-// var layer = L.mapbox.map('map', key);
-// var layer = L.mapbox.tileLayer(key);
 var map;
 $(document).ready(function() {
-  map = L.mapbox.map('map', key); //.setView([45, -122.50], 9);
+  map = L.map('map', key);
+  map.setView([45.505, -122.09], 9);
+  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'yalestar.i3904h2l',
+    accessToken: 'pk.eyJ1IjoieWFsZXN0YXIiLCJhIjoiZDNlMjJkN2RjYTliNDM3ZjlhYzgzN2RmNThjMGMxMjYifQ.T7R0wlqz6Zd_8WksyktL6g'
+  }).addTo(map);
+
+  map.locate();
+
+
   $("#getLocation").click(function() {
     if (typeof group !== 'undefined') {
       group.clearLayers();
@@ -49,8 +58,6 @@ $(document).ready(function() {
     // map.clearLayers();
     getItems();
   });
-  map.locate();
-  // map.addLayer(cloudmade);
   $("#find").click(function() {
     getItems();
   });

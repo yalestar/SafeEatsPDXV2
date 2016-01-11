@@ -13,6 +13,11 @@ module.exports = [
     method: 'GET',
     path: '/api',
     handler: Pages.api
+  },
+  {
+    method: 'GET',
+    path: '/find_nearest',
+    handler: Pages.findNearest
   }
 ];
 // {

@@ -11,3 +11,7 @@ exports.api = function(request, reply) {
         title: 'api mother fuckA'
     });
 };
+
+exports.findNearest = function(request, reply) {
+  reply('success');
+};

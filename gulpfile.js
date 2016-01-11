@@ -14,7 +14,7 @@ gulp.task('styles', function() {
     .pipe(gulp.dest('dist/'));
 });
 
-gulp.task('nodemon', function (cb) {
+gulp.task('server', function (cb) {
     var started = false;
     return nodemon({
         script: 'app/index.js'
@@ -26,11 +26,4 @@ gulp.task('nodemon', function (cb) {
     });
 });
 
-gulp.task( 'default', ['nodemon' ], function() {
-  // function restart( file ) {
-  //   server.changed( function( error ) {
-  //     if( ! error ) livereload.changed( file.path );
-  //   });
-  // }
-  // gulp.watch( serverFiles ).on( 'change', restart );
-});
+gulp.task( 'default', ['server' ], function() { });

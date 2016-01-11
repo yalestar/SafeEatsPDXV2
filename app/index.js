@@ -2,6 +2,7 @@
 
 var Hapi = require('hapi');
 var Pages = require('./handlers/pages');
+var db = require('./config/db');
 // var Assets = require('./handlers/assets');
 // var Actions = require('./handlers/actions');
 
