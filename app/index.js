@@ -6,7 +6,6 @@ var Pages = require('./handlers/pages');
 // var Actions = require('./handlers/actions');
 
 console.log("=================================================================");
-console.log("=================================================================");
 var server = new Hapi.Server();
 server.connection({port: 9000});
 
@@ -27,6 +26,18 @@ server.register(require('vision'), function (err) {
 });
 server.route(require('./routes'));
 
+server.register(require('inert'), function(err) {
+  if (err) { throw err; }
+  server.route({
+    method: 'GET',
+    path: '/{param*}',
+    handler: {
+      directory: {
+        path: 'public'
+      }
+    }
+  });
+});
 server.start(function() {
     console.log('Server running at:', server.info.uri);
 });

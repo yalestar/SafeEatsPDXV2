@@ -1,7 +1,6 @@
 'use strict';
 
 const Pages = require('./handlers/pages');
-// const Assets = require('./handlers/assets');
 // const Actions = require('./handlers/actions');
 
 module.exports = [
