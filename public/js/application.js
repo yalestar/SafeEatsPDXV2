@@ -72,34 +72,26 @@ function getItems() {
   $.ajax({
     type: "GET",
     url: "/find_nearest",
-    data: "lat=" + ourPositionLat + "&long=" + ourPositionLong,
+    // data: "lat=" + ourPositionLat + "&long=" + ourPositionLong,
     success: function(data) {
+      debugger;
       var json = $.parseJSON(data);
       var items = $.each(json, function(i, v) {
-      var ll = v.loc.reverse();
-      var name = v.name;
-      var street = v.street;
-      var latest = "";
+        var ll = v.loc.reverse();
+        var name = v.name;
+        var street = v.street;
+        var latest = "";
       // console.log(v.inspections.length);
-      if (v.inspections.length > 0) {
+        if (v.inspections.length > 0) {
           latest = v.inspections[0].score
-      }
-      var pc = name + "<br/>" + street + "<br/>Most Recent Inspection: ";
-      pc += "<b><a href='#'>" + latest + "</a></b>";
-      var marker = new L.Marker(new L.LatLng(ll[0], ll[1]));
-      marker.bindPopup(pc);
-      group.addLayer(marker);
-      var cls;
-      if (latest >= 90) {
-        cls = "green";
-      } else if (latest < 90 && latest >= 80) {
-        cls = "yellow";
-      } else if (latest == undefined) {
-        cls = "orange"
-      } else {
-        cls = "red";
-      }
-      var results_txt = "";
+        }
+        var pc = name + "<br/>" + street + "<br/>Most Recent Inspection: ";
+        pc += "<b><a href='#'>" + latest + "</a></b>";
+        var marker = new L.Marker(new L.LatLng(ll[0], ll[1]));
+        marker.bindPopup(pc);
+        group.addLayer(marker);
+        var cls;
+        var results_txt = "";
 
         results_txt += v.name + "<br/>";
         results_txt += v.street + "&nbsp;<a href='#' class='zoomTo'>z</a><br/>";
@@ -111,7 +103,7 @@ function getItems() {
         // TODO: put this in the mongo query
         // return (i != 15);
       });
-  map.addLayer(group);
+    map.addLayer(group);
     }
   });
 }

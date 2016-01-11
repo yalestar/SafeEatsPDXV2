@@ -1,7 +1,7 @@
 'use strict';
 
 const Pages = require('./handlers/pages');
-// const Actions = require('./handlers/actions');
+const Actions = require('./handlers/actions');
 
 module.exports = [
   {
@@ -17,7 +17,7 @@ module.exports = [
   {
     method: 'GET',
     path: '/find_nearest',
-    handler: Pages.findNearest
+    handler: Actions.findNearest
   }
 ];
 // {

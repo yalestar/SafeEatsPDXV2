@@ -15,6 +15,7 @@ var uriString = process.env.MONGOHQ_URL ||  "mongodb://" + login + config.host +
 
 console.log("===========================================================");
 console.log(uriString);
+console.log("===========================================================");
 
 var mongoOptions = { db: { safe: true } };
 
@@ -25,5 +26,3 @@ mongoose.connect(uriString, mongoOptions, function (err, res) {
     console.log('connected to: ' + uriString);
   }
 });
-
-exports.mongoose = mongoose;

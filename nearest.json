@@ -1,0 +1,1047 @@
+[
+  {
+    "_id": "4f387bcc44ef133b86000001",
+    "name": "2 Rs  SNACK N SHACK",
+    "street": "694 NE 4TH AVE",
+    "city": "Canby",
+    "county": "Clackamas",
+    "state": "OR",
+    "zip": "97013",
+    "inspections": [
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=349217741",
+        "score": 100,
+        "inspection_date": "2011-12-15T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b86000002"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=96517741",
+        "score": 100,
+        "inspection_date": "2011-04-01T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b86000003"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 37G   VIOLATION OF SECTION 6-202.15  Outer openings and windows in the establishment are not constructed or protected to prevent the entrance of insects and rodents, specifically:Several flies inside (foods are covered however).REQUIRED CORRECTION: Outer openings of the food establishment shall be protected against the entry of insects and rodents by: 1) filling or closing holes and other gaps along floors, walls, and ceilings; 2) closed, tight-fitting windows; and, 3) solid, self-closing doors.  Windows or doors used for ventilation must be protected by the use of screens, air curtains, or other effective means.",
+            "inspection_id": null,
+            "_id": "4f387bcd44ef133b86000004"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=197417741",
+        "score": 99,
+        "inspection_date": "2010-07-15T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b86000005"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=27417741",
+        "score": 100,
+        "inspection_date": "2010-01-22T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b86000006"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=357317741",
+        "score": 100,
+        "inspection_date": "2009-12-18T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b86000007"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=1402154",
+        "score": 100,
+        "inspection_date": "2009-05-01T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b86000008"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 13C   VIOLATION OF SECTION 2-302.11  Food employees do not keep their fingernails trimmed, filed and maintained to facilitate cleaning, or wear fingernail polish or artificial nails, specifically:ARTIFICIAL NAILS WITH POLISHREQUIRED CORRECTION: Food employees must keep their fingernails trimmed, filed and maintained so the edges and surfaces are cleanable and not rough.  Unless gloved, a food employees may not wear fingernail polish or artificial nails when working with exposed food.",
+            "inspection_id": null,
+            "_id": "4f387bcd44ef133b86000009"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.2/2",
+            "inspection_id": null,
+            "_id": "4f387bcd44ef133b8600000a"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=11402668",
+        "score": 99,
+        "inspection_date": "2008-12-03T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b8600000b"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=1401851",
+        "score": 98,
+        "inspection_date": "2008-11-01T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b8600000c"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=1401537",
+        "score": 100,
+        "inspection_date": "2008-06-14T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bcd44ef133b8600000d"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=1400901",
+        "score": 100,
+        "inspection_date": "2008-03-17T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bce44ef133b8600000e"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.All three have food handlers training cards.",
+            "inspection_id": null,
+            "_id": "4f387bce44ef133b8600000f"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=1400723",
+        "score": 100,
+        "inspection_date": "2007-12-08T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bce44ef133b86000010"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310774B&q_iID=1400330",
+        "score": 100,
+        "inspection_date": "2007-05-26T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bce44ef133b86000011"
+      }
+    ],
+    "time": "2016-01-11T16:44:06.527Z"
+  },
+  {
+    "_id": "4f387ffe44ef133b86005f81",
+    "name": "WILD HARE SALOON & CAFE",
+    "street": "1190 SW FIRST AVE",
+    "city": "Canby",
+    "county": "Clackamas",
+    "state": "OR",
+    "zip": "97013",
+    "inspections": [
+      {
+        "violations": [
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 08C   VIOLATION OF SECTION 3-303.11  Ice used as a medium for cooling food or equipment is used as a food, specifically:The soda tubes in the ice well at the bar are contacting ice that is used in drinks.REQUIRED CORRECTION: Ice used as a medium for cooling the exterior surfaces of food or equipment may not be used as a food.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f82"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 37A   VIOLATION OF SECTION 6-101.11  Walls and ceilings are not smooth, durable, easily cleanable or nonabsorbent, specifically:The wall opposite of the large walk-in coolers is not sealed and there is some mildew-like spots forming at the base.\r\nAlso, the base of the wall beneath the warewashing machine is damaged.REQUIRED CORRECTION: Smooth, nonabsorbent, easily cleanable, and durable wall and ceiling surfaces shall be provided.  Provide nonabsorbent wall and ceiling surfaces for food preparation areas, walk-in refrigerators, warewashing areas, toilet rooms, handwashing areas, storage areas, janitorial areas, laundry areas, interior garbage and refuse storage rooms, areas subject to flushing or spray cleaning methods, and other areas subject to moisture.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f83"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.\r\nFood Handlers Training information and certification may be obtained at the Clackamas County Community Health Division (2051 Kaen Road; Oregon City, OR 97045; 503-742-5328) or on line:\r\nwww.clackamas.us/community_health/eh.htm",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f84"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=341211031",
+        "score": 97,
+        "inspection_date": "2011-12-07T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387ffe44ef133b86005f85"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 36B   VIOLATION OF SECTION 6-201.11  Floors or floor coverings are not designed, constructed or installed so they are smooth or easily cleanable, specifically:a) The coving is separating from the wall along the base of the walk-in refrigerator and there is \r\n        an accumulation of food particles in the gap.\r\nb) The wall opposite of the walk-in freezer and the beer refrigerator is not sealed and there is \r\n        some mildew at the base.\r\nc) There is a missing piece of drywall/sheetrock beneath the large dishwashing machine.REQUIRED CORRECTION: Floors and floor coverings shall be designed, constructed and installed so they are smooth and easily cleanable.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f86"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 22B   VIOLATION OF SECTION 4-602.11  Surfaces of utensils and equipment contacting food that is not potentially hazardous is not cleaned as necessary, specifically:There is some dark mildew-like film on the plastic ceiling flange inside of the ice maker machine.REQUIRED CORRECTION: Surfaces of utensils and equipment contacting food that is not potentially hazardous shall be cleaned: 1) at any time when contamination may have occurred; 2) at least every 24 hours for iced tea dispensers and consumer self-service utensils; 3) before restocking consumer self-service equipment and utensils; or 4) in equipment such as ice bins and beverage dispensing nozzles when required by the manufacturer or as necessary to keep them clean.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f87"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.Food Handlers Training Certificates may be obtained or renewed on-line at:\r\n               www.clackamas.us/community_health/eh/foodhandler.htm",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f88"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=155511031",
+        "score": 97,
+        "inspection_date": "2011-06-03T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387ffe44ef133b86005f89"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 37B   VIOLATION OF SECTION 6-201.11  Walls, wall coverings and ceilings are not designed, constructed and installed to be smooth and easily cleanable, specifically:The old ceiling vent pipe in the corner above the freezer needs to be screened.\r\nAlso, the wall below the dishwasher is damaged.REQUIRED CORRECTION: Walls, wall coverings and ceilings shall be designed, constructed and installed so they are smooth and easily cleanable.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f8a"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 22B   VIOLATION OF SECTION 4-602.11  Surfaces of utensils and equipment contacting food that is not potentially hazardous is not cleaned as necessary, specifically:Some mildew-like spots on interior ceiling panel in ice machine.REQUIRED CORRECTION: Surfaces of utensils and equipment contacting food that is not potentially hazardous shall be cleaned: 1) at any time when contamination may have occurred; 2) at least every 24 hours for iced tea dispensers and consumer self-service utensils; 3) before restocking consumer self-service equipment and utensils; or 4) in equipment such as ice bins and beverage dispensing nozzles when required by the manufacturer or as necessary to keep them clean.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f8b"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=356411031",
+        "score": 97,
+        "inspection_date": "2010-12-17T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387ffe44ef133b86005f8c"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 36B   VIOLATION OF SECTION 6-201.11  Floors or floor coverings are not designed, constructed or installed so they are smooth or easily cleanable, specifically:The drywall in the room with the walk-in freezer & refrigerator is not sealed and lacks coving--there is som black mildew-like film in one spot.\r\nAlso, the wall under the dishwasher needs repair.REQUIRED CORRECTION: Floors and floor coverings shall be designed, constructed and installed so they are smooth and easily cleanable.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f8d"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 22B   VIOLATION OF SECTION 4-602.11  Surfaces of utensils and equipment contacting food that is not potentially hazardous is not cleaned as necessary, specifically:The reach-in door for the walk-in refrigerator has some food residue at the inside base.REQUIRED CORRECTION: Surfaces of utensils and equipment contacting food that is not potentially hazardous shall be cleaned: 1) at any time when contamination may have occurred; 2) at least every 24 hours for iced tea dispensers and consumer self-service utensils; 3) before restocking consumer self-service equipment and utensils; or 4) in equipment such as ice bins and beverage dispensing nozzles when required by the manufacturer or as necessary to keep them clean.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f8e"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 32A   VIOLATION OF SECTION 5-205.11  A handwashing facility is not accessible, is used for purposes other than handwashing or is not operated properly, specifically:The handwashing sink in the kitchen does not have a reminder sign (also, in restrooms).REQUIRED CORRECTION: Handwashing facilities shall be accessible at all times for employee use and not used for other purposes.  An automatic handwashing facility shall be used in accordance with manufacturer's instructions.",
+            "inspection_id": null,
+            "_id": "4f387ffe44ef133b86005f8f"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=139411031",
+        "score": 95,
+        "inspection_date": "2010-05-13T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387ffe44ef133b86005f90"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 08C   VIOLATION OF SECTION 3-303.11  Ice used as a medium for cooling food or equipment is used as a food, specifically:A wine bottle was being cooled in the ice that is used in drinks at the bar.REQUIRED CORRECTION: Ice used as a medium for cooling the exterior surfaces of food or equipment may not be used as a food.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f91"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 21A   VIOLATION OF SECTION 3-304.14  Wiping cloths are not properly used or stored, specifically:A wiping cloth was left on the cutting board at the chefs prep refrigerator.\r\nAlso, the sanitizing solution in the wiping cloth pail was slightly too strong (>200 p.p.m. chlorine).REQUIRED CORRECTION: Cloths that are in use for wiping food spills shall be used for no other purpose.  Cloths used for wiping food spills shall be dry or wet and stored in an approved sanitizing solution.  Dry or wet cloths that are used with raw animal foods shall be kept separate from cloths used for other purposes, and wet cloths used with raw animal foods shall be kept in separate sanitizing solution.  Wet wiping cloths used with a freshly made sanitizing solution and dry wiping cloths shall be free of food debris and visible soil.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f92"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 33F   VIOLATION OF SECTION 5-501.113  Receptacles for refuse, recyclables and returnables are not kept covered when required, specifically:The lid for the outside refuse bin was left open.REQUIRED CORRECTION: Receptacles and waste handling units for refuse, recyclables and returnables shall be kept covered inside of the establishment if they contain food residue and are not in continuous use or after they are filled.  Receptacles and waste handling units that are outside of the establishment shall be covered with tight-fitting lids at all times.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f93"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=330311031",
+        "score": 95,
+        "inspection_date": "2009-11-24T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387fff44ef133b86005f94"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=1402139",
+        "score": 100,
+        "inspection_date": "2009-04-24T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387fff44ef133b86005f95"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=1402098",
+        "score": 94,
+        "inspection_date": "2009-04-09T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387fff44ef133b86005f96"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=1401758",
+        "score": 94,
+        "inspection_date": "2008-09-24T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387fff44ef133b86005f97"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 36D   VIOLATION OF SECTION 6-201.13  The floor and wall junctures are not coved, closed or sealed, or graded drains are not provided where floors are cleaned by water flush methods, specifically:The coving is missing and the wall is damaged between the door and the dishwashing machine.REQUIRED CORRECTION: Floor and wall junctures shall be coved and closed no larger than one thirty-second on an inch (1 mm).  When water flush cleaning methods are used, floor and wall junctures shall be coved and sealed and floor drains provided that are graded to drain.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f98"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 37A   VIOLATION OF SECTION 6-101.11  Walls and ceilings are not smooth, durable, easily cleanable or nonabsorbent, specifically:The shelf in the kitchen below the air conditioner is bare wood.  Also, the paint has flaked off some of the shelves in the walk-in refrigerator.REQUIRED CORRECTION: Smooth, nonabsorbent, easily cleanable, and durable wall and ceiling surfaces shall be provided.  Provide nonabsorbent wall and ceiling surfaces for food preparation areas, walk-in refrigerators, warewashing areas, toilet rooms, handwashing areas, storage areas, janitorial areas, laundry areas, interior garbage and refuse storage rooms, areas subject to flushing or spray cleaning methods, and other areas subject to moisture.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f99"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 21A   VIOLATION OF SECTION 3-304.14  Wiping cloths are not properly used or stored, specifically:The sanitizing solution in the wiping cloth pail in the kitchen was slightly too strong (>200 p.p.m. chlorine).REQUIRED CORRECTION: Cloths that are in use for wiping food spills shall be used for no other purpose.  Cloths used for wiping food spills shall be dry or wet and stored in an approved sanitizing solution.  Dry or wet cloths that are used with raw animal foods shall be kept separate from cloths used for other purposes, and wet cloths used with raw animal foods shall be kept in separate sanitizing solution.  Wet wiping cloths used with a freshly made sanitizing solution and dry wiping cloths shall be free of food debris and visible soil.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f9a"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=1400834",
+        "score": 97,
+        "inspection_date": "2008-02-11T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387fff44ef133b86005f9b"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 08H   VIOLATION OF SECTION 3-305.11  Food is not stored to prevent contamination, specifically:Saw box of lemons on the floor of the walk-in refrigerator.REQUIRED CORRECTION: Food shall be protected from contamination by being stored: 1) in a clean, dry location; 2) where it is not exposed to splash, dust or other contamination; or 3) at least 6 inches above the floor.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f9c"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 36D   VIOLATION OF SECTION 6-201.13  The floor and wall junctures are not coved, closed or sealed, or graded drains are not provided where floors are cleaned by water flush methods, specifically:There is no coving behind the large dishwashing machine.REQUIRED CORRECTION: Floor and wall junctures shall be coved and closed no larger than one thirty-second on an inch (1 mm).  When water flush cleaning methods are used, floor and wall junctures shall be coved and sealed and floor drains provided that are graded to drain.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f9d"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 37A   VIOLATION OF SECTION 6-101.11  Walls and ceilings are not smooth, durable, easily cleanable or nonabsorbent, specifically:The paint on some of the wooden shelves in the walk-in refrigerator is worn off.REQUIRED CORRECTION: Smooth, nonabsorbent, easily cleanable, and durable wall and ceiling surfaces shall be provided.  Provide nonabsorbent wall and ceiling surfaces for food preparation areas, walk-in refrigerators, warewashing areas, toilet rooms, handwashing areas, storage areas, janitorial areas, laundry areas, interior garbage and refuse storage rooms, areas subject to flushing or spray cleaning methods, and other areas subject to moisture.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f9e"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005f9f"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=1400532",
+        "score": 96,
+        "inspection_date": "2007-08-27T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387fff44ef133b86005fa0"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 06D   VIOLATION OF SECTION 3-501.15 Incorrect methods are used to cool potentially hazardous foods, specifically:Observed cooked chicken in a plastic bag at 110° F cooling in the walk-in refrigerator (less than 2 hours).REQUIRED CORRECTION: Potentially hazardous food shall be cooled by: 1) placing the food in shallow pans; 2) separating the food into smaller or thinner portions; 3) using rapid cooling equipment; 4) stirring the food in an ice water bath; 5) using or arranging containers to facilitate heat transfer; 6) adding ice as an ingredient; 7) other effective methods.  Food shall be arranged to provide maximum heat transfer and loosely covered or uncovered.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005fa1"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 36D   VIOLATION OF SECTION 6-201.13  The floor and wall junctures are not coved, closed or sealed, or graded drains are not provided where floors are cleaned by water flush methods, specifically:The coving at the floor/wall juncture under the dishwashing machine and the attached sink is missing.REQUIRED CORRECTION: Floor and wall junctures shall be coved and closed no larger than one thirty-second on an inch (1 mm).  When water flush cleaning methods are used, floor and wall junctures shall be coved and sealed and floor drains provided that are graded to drain.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005fa2"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 21A   VIOLATION OF SECTION 3-304.14  Wiping cloths are not properly used or stored, specifically:The sanitizing solution in the wiping cloth pail in the kitchen was cloudy (chlorine concentration okay:  200 p.p.m.).REQUIRED CORRECTION: Cloths that are in use for wiping food spills shall be used for no other purpose.  Cloths used for wiping food spills shall be dry or wet and stored in an approved sanitizing solution.  Dry or wet cloths that are used with raw animal foods shall be kept separate from cloths used for other purposes, and wet cloths used with raw animal foods shall be kept in separate sanitizing solution.  Wet wiping cloths used with a freshly made sanitizing solution and dry wiping cloths shall be free of food debris and visible soil.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005fa3"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 32F   VIOLATION OF SECTION 6-301.14  A handwashing sign is not posted at all handwashing sinks used by food employees, specifically:The hand washing sink in the kitchen and the lavatory in the mens restroom lack required signs.REQUIRED CORRECTION: A sign or poster that notifies food employees to wash their hands shall be provided at all handwashing lavatories used by food employees and shall be clearly visible to food employees.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005fa4"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.",
+            "inspection_id": null,
+            "_id": "4f387fff44ef133b86005fa5"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310103a&q_iID=1400122",
+        "score": 94,
+        "inspection_date": "2007-02-08T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387fff44ef133b86005fa6"
+      }
+    ],
+    "time": "2016-01-11T16:44:06.529Z"
+  },
+  {
+    "_id": "4f387bdb44ef133b86000137",
+    "name": "AMERICAN LEGION POST #122",
+    "street": "424 NW 1ST AVE",
+    "city": "Canby",
+    "county": "Clackamas",
+    "state": "OR",
+    "zip": "97013",
+    "inspections": [
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 37G   VIOLATION OF SECTION 6-202.15  Outer openings and windows in the establishment are not constructed or protected to prevent the entrance of insects and rodents, specifically:Door to outside was propped open; also, door to mens restroom open.REQUIRED CORRECTION: Outer openings of the food establishment shall be protected against the entry of insects and rodents by: 1) filling or closing holes and other gaps along floors, walls, and ceilings; 2) closed, tight-fitting windows; and, 3) solid, self-closing doors.  Windows or doors used for ventilation must be protected by the use of screens, air curtains, or other effective means.",
+            "inspection_id": null,
+            "_id": "4f387bdb44ef133b86000138"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=313214881",
+        "score": 99,
+        "inspection_date": "2011-10-27T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdb44ef133b86000139"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 5,
+            "violation_text": "Violation = 03H   VIOLATION OF SECTION 3-501.17  *CRITICAL*  Ready-to-eat food is not properly date-marked, specifically:There was a \"zip-loc\" bag with 3 hot dogs inside in the G.E. refrigerator that did not have a date.REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Refrigerated, ready-to-eat potentially hazardous food prepared in the food establishment and held for more than 24 hours must be marked with the date of preparation or consumption.  Including the date of preparation, food shall be consumed within 7 days if stored at 41°F or less.  Food that is frozen shall be marked to indicate the remaining days that the food may be kept once the product is thawed.",
+            "inspection_id": null,
+            "_id": "4f387bdb44ef133b8600013a"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=126514881",
+        "score": 95,
+        "inspection_date": "2011-05-04T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdb44ef133b8600013b"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 4,
+            "violation_text": "Violation = 20C   VIOLATION OF SECTION 4-501.114  *CRITICAL*  The chlorine sanitizer concentration, pH, or temperature is not adequate, specifically:No chlorine detected in rinse water this date (11-9-10).\r\nBleach container is full--but there is either a blockage in the line, a problem with the pump, or air in the line?REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Provide and maintain an approved chlorine chemical sanitizer solution that has a minimum concentration of 50 ppm at 75°F (24°C) for water with a pH of 8 or less, or 100°F (38°C) for water with a pH of 10 or less, or as allowed in rule.",
+            "inspection_id": null,
+            "_id": "4f387bdc44ef133b8600013c"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99E    CRITICAL ITEMS CORRECTED  All critical violations have been corrected.Lynn phoned 11-12 (Friday) to say that the machine has been serviced and is working properly now.",
+            "inspection_id": null,
+            "_id": "4f387bdc44ef133b8600013d"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=329414889",
+        "score": 96,
+        "inspection_date": "2010-11-12T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdc44ef133b8600013e"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 4,
+            "violation_text": "Violation = 20K   VIOLATION OF SECTION 4-703.11  *CRITICAL*  Food-contact surfaces of equipment and utensils are not properly sanitized after cleaning, specifically:The rinse did not have enough chlorine in the dishwashing machine (less than 50 p.p.m.).REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Food-contact surfaces of equipment and utensils shall be sanitized after cleaning using one the following methods: 1) immersion for at least 30 seconds in hot water maintained as specified in rule; 2) using mechanical hot water operations that achieve a utensil surface temperature of 160°F (71°C); or 3) using an approved chemical sanitizer in manual or mechanical operations for 10 seconds for chlorine and 30 seconds for all other chemical sanitizer or an exposure time used in relation with a combination of temperature, concentration and pH.",
+            "inspection_id": null,
+            "_id": "4f387bdc44ef133b8600013f"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 21A   VIOLATION OF SECTION 3-304.14  Wiping cloths are not properly used or stored, specifically:Chlorine concentration in the wiping cloth pail too high (over 200 p.p.m.).REQUIRED CORRECTION: Cloths that are in use for wiping food spills shall be used for no other purpose.  Cloths used for wiping food spills shall be dry or wet and stored in an approved sanitizing solution.  Dry or wet cloths that are used with raw animal foods shall be kept separate from cloths used for other purposes, and wet cloths used with raw animal foods shall be kept in separate sanitizing solution.  Wet wiping cloths used with a freshly made sanitizing solution and dry wiping cloths shall be free of food debris and visible soil.",
+            "inspection_id": null,
+            "_id": "4f387bdc44ef133b86000140"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=308414881",
+        "score": 95,
+        "inspection_date": "2010-11-03T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdc44ef133b86000141"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310488&q_iID=93414881",
+        "score": 100,
+        "inspection_date": "2010-04-02T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdc44ef133b86000142"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.The operator has a food handlers training card.",
+            "inspection_id": null,
+            "_id": "4f387bdc44ef133b86000143"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=288314881",
+        "score": 100,
+        "inspection_date": "2009-10-08T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdc44ef133b86000144"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310488&q_iID=1402089",
+        "score": 98,
+        "inspection_date": "2009-04-03T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdc44ef133b86000145"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310488&q_iID=1401757",
+        "score": 99,
+        "inspection_date": "2008-09-24T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdc44ef133b86000146"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310488&q_iID=1400873",
+        "score": 100,
+        "inspection_date": "2008-02-28T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdc44ef133b86000147"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99E    CRITICAL ITEMS CORRECTED  All critical violations have been corrected.Spoke with Tim by phone this date.  He said that the Hobart service man came out on Friday and repaired the machine.  It tests fine now.",
+            "inspection_id": null,
+            "_id": "4f387bdc44ef133b86000148"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=1400605",
+        "score": 100,
+        "inspection_date": "2007-10-01T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdc44ef133b86000149"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 05D   VIOLATION OF SECTION 4-204.112  Temperature measuring devices are not provided, or are not easily readable, properly located, or accurately scaled in hot or cold food storage units, specifically:The white G.E. refrigerator does not have a thermometer.REQUIRED CORRECTION: An accurate, easily readable temperature measuring device shall be located in the warmest part of mechanically refrigerated units and in the coolest part of hot food storage units.",
+            "inspection_id": null,
+            "_id": "4f387bdd44ef133b8600014a"
+          },
+          {
+            "point_deduction": 4,
+            "violation_text": "Violation = 20C   VIOLATION OF SECTION 4-501.114  *CRITICAL*  The chlorine sanitizer concentration, pH, or temperature is not adequate, specifically:Chlorine concentration in sanitizing rinse at bar dishwasher tested @ 0 to 10 p.p.m.REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Provide and maintain an approved chlorine chemical sanitizer solution that has a minimum concentration of 50 ppm at 75°F (24°C) for water with a pH of 8 or less, or 100°F (38°C) for water with a pH of 10 or less, or as allowed in rule.",
+            "inspection_id": null,
+            "_id": "4f387bdd44ef133b8600014b"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99P    ALTERNATIVE DISHWASHING  Implement the following approved alternative procedure for dishwashing immediately: Provide a bin or sink after machine processing with a minimum 50 ppm chlorine sanitizing solution and immerse for at least 10 seconds.",
+            "inspection_id": null,
+            "_id": "4f387bdd44ef133b8600014c"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=1400582",
+        "score": 95,
+        "inspection_date": "2007-09-24T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdd44ef133b8600014d"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99E    CRITICAL ITEMS CORRECTED  All critical violations have been corrected.Spoke with Tim by phone.  He checked and repaired machine--supply line was clogged.  They tested ~100 p.p.m. chlorine.",
+            "inspection_id": null,
+            "_id": "4f387bdd44ef133b8600014e"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=1400189",
+        "score": 100,
+        "inspection_date": "2007-03-12T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdd44ef133b8600014f"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 4,
+            "violation_text": "Violation = 20C   VIOLATION OF SECTION 4-501.114  *CRITICAL*  The chlorine sanitizer concentration, pH, or temperature is not adequate, specifically:The sanitizing rinse for the dish-washing machine at the main (downstairs) bar had no measurable chlorine.REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Provide and maintain an approved chlorine chemical sanitizer solution that has a minimum concentration of 50 ppm at 75°F (24°C) for water with a pH of 8 or less, or 100°F (38°C) for water with a pH of 10 or less, or as allowed in rule.",
+            "inspection_id": null,
+            "_id": "4f387bdd44ef133b86000150"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 32F   VIOLATION OF SECTION 6-301.14  A handwashing sign is not posted at all handwashing sinks used by food employees, specifically:Hand-wash sink at downstairs bar does not have a sign that reminds staff to wash hands.REQUIRED CORRECTION: A sign or poster that notifies food employees to wash their hands shall be provided at all handwashing lavatories used by food employees and shall be clearly visible to food employees.",
+            "inspection_id": null,
+            "_id": "4f387bdd44ef133b86000151"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.",
+            "inspection_id": null,
+            "_id": "4f387bdd44ef133b86000152"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99P    ALTERNATIVE DISHWASHING  Implement the following approved alternative procedure for dishwashing immediately: Provide a bin or sink after machine processing with a minimum 50 ppm chlorine sanitizing solution and immerse for at least 10 seconds.",
+            "inspection_id": null,
+            "_id": "4f387bdd44ef133b86000153"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310488&q_iID=1400175",
+        "score": 94,
+        "inspection_date": "2007-03-08T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387bdd44ef133b86000154"
+      }
+    ],
+    "time": "2016-01-11T16:44:06.529Z"
+  },
+  {
+    "_id": "4f387c2544ef133b8600070d",
+    "name": "BLACKJACK DELI & MORE LLC",
+    "street": "1110 SW 1ST AVENUE",
+    "city": "Canby",
+    "county": "Clackamas",
+    "state": "OR",
+    "zip": "97013",
+    "inspections": [
+      {
+        "violations": [
+          {
+            "point_deduction": 5,
+            "violation_text": "Violation = 03G   VIOLATION OF SECTION 3-501.16  *CRITICAL*  Potentially hazardous food is not maintained at proper hot or cold holding temperatures, specifically:Sandwich refrigerator has meats at 46-48°F.REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Potentially hazardous foods shall be maintained at 140°F (60°C) or above (except roast beef may be held at 130°F (54°C) or above) or at 41°F (5°C) or less.",
+            "inspection_id": null,
+            "_id": "4f387c2544ef133b8600070e"
+          },
+          {
+            "point_deduction": 5,
+            "violation_text": "Violation = 03H   VIOLATION OF SECTION 3-501.17  *CRITICAL*  Ready-to-eat food is not properly date-marked, specifically:No date on hot dogs.REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Refrigerated, ready-to-eat potentially hazardous food prepared in the food establishment and held for more than 24 hours must be marked with the date of preparation or consumption.  Including the date of preparation, food shall be consumed within 7 days if stored at 41°F or less.  Food that is frozen shall be marked to indicate the remaining days that the food may be kept once the product is thawed.",
+            "inspection_id": null,
+            "_id": "4f387c2544ef133b8600070f"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 21A   VIOLATION OF SECTION 3-304.14  Wiping cloths are not properly used or stored, specifically:Wiping cloth solution is weak.REQUIRED CORRECTION: Cloths that are in use for wiping food spills shall be used for no other purpose.  Cloths used for wiping food spills shall be dry or wet and stored in an approved sanitizing solution.  Dry or wet cloths that are used with raw animal foods shall be kept separate from cloths used for other purposes, and wet cloths used with raw animal foods shall be kept in separate sanitizing solution.  Wet wiping cloths used with a freshly made sanitizing solution and dry wiping cloths shall be free of food debris and visible soil.",
+            "inspection_id": null,
+            "_id": "4f387c2544ef133b86000710"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=251519121",
+        "score": 94,
+        "inspection_date": "2011-09-04T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2544ef133b86000711"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=55519121",
+        "score": 100,
+        "inspection_date": "2011-02-23T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2544ef133b86000712"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.Food Handlers Training Certificates may be obtained or renewed on-line at:\r\n               www.clackamas.us/community_health/eh/foodhandler.htm",
+            "inspection_id": null,
+            "_id": "4f387c2544ef133b86000713"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=265419121",
+        "score": 100,
+        "inspection_date": "2010-09-21T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2544ef133b86000714"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=56419121",
+        "score": 100,
+        "inspection_date": "2010-02-18T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2544ef133b86000715"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.",
+            "inspection_id": null,
+            "_id": "4f387c2544ef133b86000716"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=1402435",
+        "score": 100,
+        "inspection_date": "2009-09-10T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2544ef133b86000717"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=1402018",
+        "score": 100,
+        "inspection_date": "2009-02-13T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2544ef133b86000718"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=1401744",
+        "score": 100,
+        "inspection_date": "2008-09-17T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2644ef133b86000719"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.",
+            "inspection_id": null,
+            "_id": "4f387c2644ef133b8600071a"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=1400776",
+        "score": 100,
+        "inspection_date": "2008-01-15T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2644ef133b8600071b"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.All have certification.",
+            "inspection_id": null,
+            "_id": "4f387c2644ef133b8600071c"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=1400480",
+        "score": 100,
+        "inspection_date": "2007-07-30T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2644ef133b8600071d"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 05D   VIOLATION OF SECTION 4-204.112  Temperature measuring devices are not provided, or are not easily readable, properly located, or accurately scaled in hot or cold food storage units, specifically:Did not see easily-visible thermometers in some of the refrigerators.REQUIRED CORRECTION: An accurate, easily readable temperature measuring device shall be located in the warmest part of mechanically refrigerated units and in the coolest part of hot food storage units.",
+            "inspection_id": null,
+            "_id": "4f387c2644ef133b8600071e"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.All 5 have food handlers training cards.",
+            "inspection_id": null,
+            "_id": "4f387c2644ef133b8600071f"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310912A&q_iID=1400117",
+        "score": 99,
+        "inspection_date": "2007-02-07T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c2644ef133b86000720"
+      }
+    ],
+    "time": "2016-01-11T16:44:06.529Z"
+  },
+  {
+    "_id": "4f387c4344ef133b86000992",
+    "name": "BURGERVILLE  USA #18",
+    "street": "909 SW 1ST AVE",
+    "city": "Canby",
+    "county": "Clackamas",
+    "state": "OR",
+    "zip": "97013",
+    "inspections": [
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 23A   VIOLATION OF SECTION 4-601.11  Nonfood-contact surfaces are not kept clean, specifically:Grease is dripping onto the floor from the front left corner of the grill.REQUIRED CORRECTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other debris.",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b86000993"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 29D   VIOLATION OF SECTION 5-202.12  Water at handwashing lavatories is at improper temperatures, not provided through a combination faucet or properly metered, or an automatic handwashing facility is not installed according to manufacturer's instructions, specifically:The hot water temperature at the rear handwashing sink only reached 89°F.REQUIRED CORRECTION: A handwashing lavatory shall be equipped to provide water at a temperature of at least 110°F (43°C) through a mixing valve or a combination faucet.  A steam mixing valve may not be used at a handwashing lavatory.  A self-closing, slow-closing or metering faucet shall provide a flow of water for at least 15 seconds without the need to reactivate the faucet.  An automatic handwashing facility shall be installed in accordance with manufacturer's instructions.",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b86000994"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.Food Handlers Training Certificates may be obtained or renewed on-line at:\r\n               www.clackamas.us/community_health/eh/foodhandler.htm",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b86000995"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=231512431",
+        "score": 98,
+        "inspection_date": "2011-08-18T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4344ef133b86000996"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 5,
+            "violation_text": "Violation = 03G   VIOLATION OF SECTION 3-501.16  *CRITICAL*  Potentially hazardous food is not maintained at proper hot or cold holding temperatures, specifically:Cheese slices in the top of the refrigerator next to the grill at 45°F; inside of unit at 46°F.  Other measured food temperatures okay.*REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Potentially hazardous foods shall be maintained at 140°F (60°C) or above (except roast beef may be held at 130°F (54°C) or above) or at 41°F (5°C) or less.",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b86000997"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 17G   VIOLATION OF SECTION 4-302.14  A test kit is not provided or is not accurate enough to measure the concentration of sanitizing solutions, specifically:They had run out of test paper for the sanitizer solution (quaternary ammonium).REQUIRED CORRECTION: A test kit or other device that accurately measures the concentration in ppm (mg/l) of sanitizer shall be provided.",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b86000998"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.Food Handlers Training Certificates may be obtained or renewed on-line at:\r\n               www.clackamas.us/community_health/eh/foodhandler.htm",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b86000999"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=27512431",
+        "score": 94,
+        "inspection_date": "2011-01-26T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4344ef133b8600099a"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 5,
+            "violation_text": "Violation = 03J   VIOLATION OF SECTION 3-501.19  *CRITICAL*  Time in lieu of temperature as a public health control is not approved or does not follow proper procedures, specifically:The sandwich prep refrigerator next to the grill was at 48°F; sliced cheese (in the top of the unit) at 50°F (less than 4 hours).  All other coolers measured were below 41°F.*REQUIRED CORRECTION: CORRECT IMMEDIATELY.  When using time as a public health control, the food shall be marked or otherwise identified to indicate the time within 4 hours past the point in time when the food is removed from temperature control.  The food must be cooked, served, or discarded within 4 hours.  Unmarked containers or packages marked to exceed 4 hours must be discarded, and written procedures must be maintained in the establishment and made available to the regulatory authority.",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b8600099b"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 08H   VIOLATION OF SECTION 3-305.11  Food is not stored to prevent contamination, specifically:A large sack of flour was on the floor under the table across from the 3-compartment sink.REQUIRED CORRECTION: Food shall be protected from contamination by being stored: 1) in a clean, dry location; 2) where it is not exposed to splash, dust or other contamination; or 3) at least 6 inches above the floor.",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b8600099c"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 33F   VIOLATION OF SECTION 5-501.113  Receptacles for refuse, recyclables and returnables are not kept covered when required, specifically:The exterior refuse bin lid had been left open.REQUIRED CORRECTION: Receptacles and waste handling units for refuse, recyclables and returnables shall be kept covered inside of the establishment if they contain food residue and are not in continuous use or after they are filled.  Receptacles and waste handling units that are outside of the establishment shall be covered with tight-fitting lids at all times.",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b8600099d"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.Food Handlers Training Certificates may be obtained or renewed on-line at:\r\n               www.clackamas.us/community_health/eh/foodhandler.htm",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b8600099e"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=238412431",
+        "score": 91,
+        "inspection_date": "2010-08-25T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4344ef133b8600099f"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.Food Handlers Training Certificates may be obtained or renewed on-line at:\r\n               www.clackamas.us/community_health/eh/foodhandler.htm",
+            "inspection_id": null,
+            "_id": "4f387c4344ef133b860009a0"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=29412431",
+        "score": 100,
+        "inspection_date": "2010-01-28T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4344ef133b860009a1"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 05D   VIOLATION OF SECTION 4-204.112  Temperature measuring devices are not provided, or are not easily readable, properly located, or accurately scaled in hot or cold food storage units, specifically:Could not locate a thermometer in the Delfield refrigerator on the left side behind the front counter.  Also, the thermometer for the other small Delfield at the front was broken.REQUIRED CORRECTION: An accurate, easily readable temperature measuring device shall be located in the warmest part of mechanically refrigerated units and in the coolest part of hot food storage units.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009a2"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 10A   VIOLATION OF SECTION 3-304.12  In-use dispensing utensils are not properly stored, specifically:The scoop handle inside of the large container of bread crumbs was touching the product.REQUIRED CORRECTION: In-use food preparation or dispensing utensils shall be stored: 1) in the food with the handles above the top of the food; 2) on a clean portion of the food preparation table or cooking equipment if they are cleaned and sanitized as required; 3) in running water of sufficient velocity to flush particulates to the drain; 4) in a clean, protected location if the utensils are used with food that is not potentially hazardous; or 5) in a container of hot water at a temperature of 140°F (60°C) or more or 41°F (5°C) or less or if the container is cleaned as required.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009a3"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 33F   VIOLATION OF SECTION 5-501.113  Receptacles for refuse, recyclables and returnables are not kept covered when required, specifically:The lid for the large outside refuse bin was left open.REQUIRED CORRECTION: Receptacles and waste handling units for refuse, recyclables and returnables shall be kept covered inside of the establishment if they contain food residue and are not in continuous use or after they are filled.  Receptacles and waste handling units that are outside of the establishment shall be covered with tight-fitting lids at all times.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009a4"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009a5"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=1402394",
+        "score": 96,
+        "inspection_date": "2009-08-14T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4444ef133b860009a6"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310243&q_iID=1401996",
+        "score": 92,
+        "inspection_date": "2009-01-20T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4444ef133b860009a7"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310243&q_iID=1401701",
+        "score": 100,
+        "inspection_date": "2008-08-29T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4444ef133b860009a8"
+      },
+      {
+        "violations": [],
+        "url": "rim.jsp?q_ID=0310243&q_iID=1401677",
+        "score": 94,
+        "inspection_date": "2008-08-20T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4444ef133b860009a9"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 15K   VIOLATION OF SECTION 4-501.11  Equipment is not maintained in good repair or according to manufacturer's recommendations or cutting parts of can openers are not kept sharp, specifically:True freezer door gasket is damaged.REQUIRED CORRECTION: All equipment and components shall be in good repair and maintained and adjusted in accordance with manufacturer's specifications. Maintain the cutting or piercing parts of can openers in a sharp condition.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009aa"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 32F   VIOLATION OF SECTION 6-301.14  A handwashing sign is not posted at all handwashing sinks used by food employees, specifically:Handwash reminder signage missing at one of the kichen handwash sinks and in the womens restroom.REQUIRED CORRECTION: A sign or poster that notifies food employees to wash their hands shall be provided at all handwashing lavatories used by food employees and shall be clearly visible to food employees.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009ab"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 42F   VIOLATION OF SECTION 6-501.16  Mops are not properly positioned for air-drying, specifically:Wet mops positioned improperly when not in use.REQUIRED CORRECTION: After use, mops shall be placed in a position that allows them to air-dry without soiling walls, equipment or supplies.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009ac"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.All 24 have food handlers training cards.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009ad"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=1400790",
+        "score": 96,
+        "inspection_date": "2008-01-14T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4444ef133b860009ae"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 36B   VIOLATION OF SECTION 6-201.11  Floors or floor coverings are not designed, constructed or installed so they are smooth or easily cleanable, specifically:Floor tiles are chipped, cracked in several areas in the kitchen.REQUIRED CORRECTION: Floors and floor coverings shall be designed, constructed and installed so they are smooth and easily cleanable.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009af"
+          },
+          {
+            "point_deduction": 2,
+            "violation_text": "Violation = 14U   VIOLATION OF SECTION 4-501.12  Cutting surfaces no longer can be effectively cleaned or sanitized, specifically:Cutting board on prep cooler #2 has some deep grooves on the front edge.REQUIRED CORRECTION: Surfaces such as cutting blocks and boards that are subject to scratching and scoring shall be resurfaced if they can no longer be effectively cleaned and sanitized or discarded if they are not capable of being resurfaced.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009b0"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.26 of 28 (2 new) have cards.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009b1"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=1400511",
+        "score": 97,
+        "inspection_date": "2007-08-15T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4444ef133b860009b2"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99E    CRITICAL ITEMS CORRECTED  All critical violations have been corrected.Checked temperature--now 39º F.  Manager (Dan) said they had the unit serviced (freon added).  Thermometer inside the unit appears accurate.",
+            "inspection_id": null,
+            "_id": "4f387c4444ef133b860009b3"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=1400132",
+        "score": 100,
+        "inspection_date": "2007-02-12T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4444ef133b860009b4"
+      },
+      {
+        "violations": [
+          {
+            "point_deduction": 5,
+            "violation_text": "Violation = 03G   VIOLATION OF SECTION 3-501.16  *CRITICAL*  Potentially hazardous food is not maintained at proper hot or cold holding temperatures, specifically:Breaded chicken inside prep cooler #1 at 56° F (less than 2-3 hours).  Top had been open a lot and one of the insert bins was missing allowing refrigerated air to escape.REQUIRED CORRECTION: CORRECT IMMEDIATELY.  Potentially hazardous foods shall be maintained at 140°F (60°C) or above (except roast beef may be held at 130°F (54°C) or above) or at 41°F (5°C) or less.",
+            "inspection_id": null,
+            "_id": "4f387c4544ef133b860009b5"
+          },
+          {
+            "point_deduction": 1,
+            "violation_text": "Violation = 36B   VIOLATION OF SECTION 6-201.11  Floors or floor coverings are not designed, constructed or installed so they are smooth or easily cleanable, specifically:Some of the floor tiles are cracked/chipped.  The coving is missing at the floor/wall juncture next to the rear hand sink.REQUIRED CORRECTION: Floors and floor coverings shall be designed, constructed and installed so they are smooth and easily cleanable.",
+            "inspection_id": null,
+            "_id": "4f387c4544ef133b860009b6"
+          },
+          {
+            "point_deduction": 0,
+            "violation_text": "Violation = 99O    This establishment has #_____food handlers with #______having valid food handler certificates.",
+            "inspection_id": null,
+            "_id": "4f387c4544ef133b860009b7"
+          }
+        ],
+        "url": "rim.jsp?q_ID=0310243&q_iID=1400125",
+        "score": 94,
+        "inspection_date": "2007-02-09T00:00:00.000Z",
+        "restaurant_id": null,
+        "_id": "4f387c4544ef133b860009b8"
+      }
+    ],
+    "time": "2016-01-11T16:44:06.529Z"
+  }
+]
