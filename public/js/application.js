@@ -74,10 +74,9 @@ function getItems() {
     url: "/find_nearest",
     // data: "lat=" + ourPositionLat + "&long=" + ourPositionLong,
     success: function(data) {
-      debugger;
-      var json = $.parseJSON(data);
+      var json = data;
       var items = $.each(json, function(i, v) {
-        var ll = v.loc.reverse();
+      //  var ll = v.loc.reverse();
         var name = v.name;
         var street = v.street;
         var latest = "";

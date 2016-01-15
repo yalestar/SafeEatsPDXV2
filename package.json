@@ -5,6 +5,9 @@
   "main": "server.js",
   "dependencies": {
     "babel": "^6.3.26",
+    "geo-tools": "^0.1.2",
+    "geocoder": "^0.2.2",
+    "geocodio": "^2.0.0",
     "gulp-babel": "^6.1.1",
     "gulp-exec": "^2.1.2",
     "handlebars": "^4.0.5",
