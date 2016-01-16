@@ -1,3 +1,4 @@
-Get rolling with Hapi.js, Gulp, Bower
+Make the thing that periodically checks C/W counties for new inspections
 
-Make basic server and index and test
+
+Eventually: transform C/W counties to match Multnomah
